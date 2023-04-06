@@ -16,6 +16,6 @@
 
 - 🌱 Frontend : Angular, Vue, TailwindCSS, Material UI, Ionic
 - 🔭 Backend : Laravel, CI, Ruby on Rails, Node.js, Express
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, PHP, Solidity
-- 📫 Interesting : AI, Blockchain
+- 🧩 Database : MySQL(Procedure), MongoDB, SQLite
+- 💬 Language : HTML, CSS, Javascript, Typescript, PHP, Ruby, Solidity
+- 📫 Interesting : Blockchain
