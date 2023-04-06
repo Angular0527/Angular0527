@@ -9,13 +9,13 @@
 </h1>
 
 <h2 align="center">
-  with Node.js, Laravel and Ruby on Rails.
+  with Node.js, Laravel, Ruby on Rails and .NET.
 </h2>
 
 ## Skills
 
 - 🌱 Frontend : Angular, Vue, TailwindCSS, Material UI, Ionic
-- 🔭 Backend : Laravel, CI, Ruby on Rails, Node.js, Express
+- 🔭 Backend : Laravel, CI, Ruby on Rails, Node.js, Express, .NET
 - 🧩 Database : MySQL(Procedure), MongoDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, PHP, Ruby, Solidity
 - 📫 Interesting : Blockchain
