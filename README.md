@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="left">
+    <em>Samuel Mol</em>
+</h1>
 
-<!--
-**Angular0527/Angular0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Senior Angular Developer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-Here are some ideas to get you started:
+<h2 align="center">
+  with Node.js, Laravel and Ruby on Rails.
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- 🌱 Frontend : Angular, Vue, TailwindCSS, Material UI, Ionic
+- 🔭 Backend : Laravel, CI, Ruby on Rails, Node.js, Express
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
+- 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, PHP, Solidity
+- 📫 Interesting : AI, Blockchain
