@@ -12,7 +12,7 @@
 ## Skills
 
 - 🌱 Frontend : Angular, Vue, TailwindCSS, Material UI, Ionic
-- 🔭 Backend : Laravel, CI, Ruby on Rails, Node.js, Express, .NET
+- 🔭 Backend : Node.js, Express, Laravel, CI, Ruby on Rails, .NET
 - 🧩 Database : MySQL(Procedure), MongoDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, PHP, Ruby, Solidity
 - 📫 Interesting : Blockchain
