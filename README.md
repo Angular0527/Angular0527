@@ -1,5 +1,5 @@
 <h1 align="left">
-    <em>Samuel Mol</em>
+    <em>Chase Ratliff</em>
 </h1>
 
 <h1 align="center">
@@ -9,13 +9,13 @@
 </h1>
 
 <h2 align="center">
-  with Node.js, Laravel, Ruby on Rails and .NET.
+  with Spring Boot, Django, Ruby on Rails and Node.
 </h2>
 
 ## Skills
 
-- 🌱 Frontend : Angular, Vue, TailwindCSS, Material UI, Ionic
-- 🔭 Backend : Node.js, Express, Laravel, CI, Ruby on Rails, .NET
-- 🧩 Database : MySQL(Procedure), MongoDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, PHP, Ruby, Solidity
+- 🌱 Frontend : Angular, Vue, TailwindCSS, Bootstrap, Material UI, Ionic
+- 🔭 Backend : Spring Boot, Django, Ruby on Rails, Express and Node
+- 🧩 Database : MySQL(Procedure), PostgreSQL, MongoDB, SQLite
+- 💬 Language : HTML, CSS, Javascript, Typescript, Java, Python, Ruby, PHP
 - 📫 Interesting : Blockchain
