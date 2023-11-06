@@ -1,5 +1,5 @@
 <h1 align="left">
-    <em>Chase Ratliff</em>
+    <em>Samuel Mol</em>
 </h1>
 
 <h1 align="center">
