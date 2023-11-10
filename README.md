@@ -9,7 +9,7 @@
 </h1>
 
 <h2 align="center">
-  with Spring Boot, Django, Ruby on Rails and Node.
+  with Spring Boot, Django, Laravel and Node.
 </h2>
 
 ## Skills
